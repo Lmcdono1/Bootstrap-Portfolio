@@ -148,7 +148,14 @@ span {
     color: white;
     background-color: #4aaaa5;
     display: block;
+    
 }
+
+a:hover{
+    text-decoration: none;
+}
+
+
 
 /* Contact Page________________________________________*/
 input[type=submit] {
